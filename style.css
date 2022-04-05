@@ -62,8 +62,15 @@ main{
     border-radius: 0px 0px 13px 13px;
     margin-bottom: 30px;
 }
+img{
+    min-width: 50%;
+    max-width: 100%;
+}
 .img{
+    display: block;
+    max-width: 100%;
     width: 100%;
+    margin: auto;
 }
 h1{
     font-family: 'Bebas Neue', Arial, sans-serif;
